@@ -1,0 +1,14 @@
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.exe
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.runtimeconfig.json
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
+C:\Users\rafael.assis\OneDrive\Documentos\Material Para Estudo\Complexidade de Algoritimos\Execicio Biblioteca Glender\Biblioteca\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
